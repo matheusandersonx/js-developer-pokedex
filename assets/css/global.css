@@ -1,17 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto, monospace;
     box-sizing: border-box;
 }
 
+
+h1 {
+    color: rgb(243, 46, 46);
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
 body {
-    background-color: #f6f8fc;
+    background-color: #f9f9f7;
 }
 
 .content {
     width: 100vw;
-    height: 100vh;
+    min-height: 90vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #efeee8;
+    filter: drop-shadow(0px 3px 5px rgba(0, 0, 0, 0.18));
 }
 
 @media screen and (min-width: 992px) {
