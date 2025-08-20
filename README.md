@@ -15,7 +15,7 @@ Este repositório contém um exercício prático de HTML, CSS e Java Script que 
 ## 🚀 Sobre o Projeto
 
 O objetivo principal deste projeto foi desenvolver uma *Pokedex* usando a *PokeApi* (https://pokeapi.co).
-A página foi elaborada utilizando os conhecimentos passados do curso, incluindo o HTML, CSS e Java Script, adicionando a página seu próprio toque e estilo desejado, com suas informações e projetos desenvolvidos.
+A página foi elaborada utilizando os conhecimentos passados do curso, incluindo o HTML, CSS e Java Script, adicionando a página seu próprio toque e estilo desejado.
 Além disso foi adcionada a funcionalidade de clicar em um pokemon e ir para uma pagina com os detalhes do mesmo, e um botão de retroceder que leva de volta para a pagina inicial, na pagina inicial há um botão para carregar mais pokemons que irá carregar +24 até o total de 151.
 
 ## ✨ Como Visualizar
